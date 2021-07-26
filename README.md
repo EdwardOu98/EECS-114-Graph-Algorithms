@@ -1,1 +1,1 @@
-# EECS-114-Graph-Algorithms
+# EECS-114-Prims-Algorithm
